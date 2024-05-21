@@ -163,7 +163,7 @@ rapidfuzz==3.6.1; python_version >= '3.8'
 realtime==1.0.2; python_version >= '3.8' and python_version < '4.0'
 redis==5.0.1; python_version >= '3.7'
 regex==2023.12.25; python_version >= '3.7'
-requests==2.31.0; python_version >= '3.7'
+requests==2.32.0; python_version >= '3.7'
 requests-file==2.0.0
 resend==0.7.2; python_version >= '3.7'
 rsa==4.9; python_version >= '3.6' and python_version < '4'
