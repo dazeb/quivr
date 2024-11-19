@@ -141,7 +141,7 @@ llama-index-readers-llama-parse==0.1.4; python_version < '4.0' and python_full_v
 llama-parse==0.4.3; python_version < '4.0' and python_full_version >= '3.8.1'
 llamaindex-py-client==0.1.19; python_version >= '3.8' and python_version < '4'
 lxml[html_clean]==5.2.2; python_version >= '3.6'
-lxml-html-clean==0.1.1
+lxml-html-clean==0.4.0
 markdown==3.6
 markdown-it-py==3.0.0; python_version >= '3.8'
 markupsafe==2.1.5; python_version >= '3.7'
